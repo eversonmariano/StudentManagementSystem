@@ -1,7 +1,5 @@
 # Student Management System
 
-## Sobre
-
 👉#Project created with Spring Boot and Thymeleaf. 
 
 <img src="./media/images/tela.jpg" />
