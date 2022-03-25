@@ -4,7 +4,10 @@
 
 👉#Project created with Spring Boot and Thymeleaf. 
 
-<img src="./media/images/dashboard.png" />
+<img src="./media/images/tela.jpg" />
+<br>
+<img src="./media/images/tela1.jpg" />
+<br>
 
 ## Tecnologies 
 
